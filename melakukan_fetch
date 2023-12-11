@@ -1,0 +1,3 @@
+git fetch
+git checkout origin/master
+git switch master
