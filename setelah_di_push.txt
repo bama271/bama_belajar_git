@@ -1,0 +1,1 @@
+tinggal push ke github, tidak perlu add origin lagi
