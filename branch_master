@@ -1,0 +1,3 @@
+git switch master
+or
+git checkout master

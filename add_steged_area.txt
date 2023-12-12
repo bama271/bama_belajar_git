@@ -1,0 +1,6 @@
+git add .
+git commit -m "pesan"
+lalu check dengan perintah
+git log
+or
+git status
