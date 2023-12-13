@@ -1,0 +1,2 @@
+cara untuk menggabungkan antar branch yaitu dengan perintah berikut:
+git merge (nama branch)
