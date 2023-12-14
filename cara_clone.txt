@@ -1,0 +1,8 @@
+git clone (url git.git)
+perintah di atas hanya untuk public
+
+untuk yang private perlu PAT(Persola Access Tokens)
+git clone (http://(PAT)@github.com ... .git)
+
+clone melalui desktop github lebih mudah tinggal login, 
+dan pilih clone repository
