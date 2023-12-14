@@ -1,0 +1,11 @@
+git reset (7code hast)
+perintah di atas akan menghapus repository yang telah dicommit
+
+git reset (7code hast) --hard
+perintah di atas akan menghapus repository yang telah dicommit 
+dan menghapus isi file yang ada di repository yang telah dicommit
+
+
+note:
+(7code hast) yang digunakan adalah yang sebelumnya atau yang lama
+biasanya hast yang lama ada di bawah
