@@ -1,0 +1,9 @@
+git fetch
+git fetch (nama remote) (nama branch)
+contoh: git fetch origin master
+
+note: 
+git fetch untuk cek apakah ada update terbaru di github internet,
+jika tidak ada, maka  tidak ada yang terjadi.
+jika ada, maka akan ada banyak tulisan.
+tidak akan terjadi apa-apa jika update yang terbarunya di local/pc.

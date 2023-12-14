@@ -1,0 +1,15 @@
+perintah push
+git push -u origin (bisa main/master)
+
+note:
+origin nama yang sering di pakai, bisa ubah nama lain.
+
+
+langkah-langkah push:
+buat repository baru di https://github.com
+pada pc/local ketikan >> 
+git remote add origin (http://(PAT)@github.com ... .git)
+lalu tinggal push ketikan >> 
+git push -u origin master
+selesai
+

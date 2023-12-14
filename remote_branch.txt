@@ -1,0 +1,17 @@
+perintah rename
+git remote rename (nama lama) (nama baru)
+
+perintah remove
+git remote remove (nama remote)
+
+perintah add
+git remote add origin (http://(PAT)@github.com ... .git)
+
+perintah liat versi remote
+git remote -v
+
+note:
+jika salah masukin url pada remote, hapus masukin ulang.
+remote dan add lagi. 
+remote perlu sekali saja, jika file sudah di commit tinggal
+ketikan push saja, maka akan langsung muncul pada github.com

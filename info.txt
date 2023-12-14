@@ -1,2 +1,9 @@
 cara untuk menggabungkan antar branch yaitu dengan perintah berikut:
 git merge (nama branch)
+
+
+git fetch 
+merupakan dari github ke repository local
+
+git pull
+merupakan dari github ke working directory(folder pc)

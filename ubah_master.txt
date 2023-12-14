@@ -1,0 +1,5 @@
+git branch -M (master/main)
+
+note:
+nama master dan main adalah nama yang sering digunakan
+bisa menggunakan nama lain kalau mau.
