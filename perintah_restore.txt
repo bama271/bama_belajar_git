@@ -1,0 +1,16 @@
+git restore (nama file)
+git restore --source HEAD~(commit ke berapa) (nama file)
+git restore --staged (nama file)
+
+contoh:
+git restore --source HEAD~2 Hallo.txt
+
+note 1:
+git restore (nama file) akan merestore commit terakhir
+singkatnya file yang udah di save akan ke tiban/timpa 
+dengan file yang lama
+
+note 2:
+git restore (nama file) akan merestore commit yang di pilih
+singkatnya file yang udah di save akan ke tiban/timpa 
+dengan file yang lama
