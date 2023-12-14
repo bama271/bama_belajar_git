@@ -6,6 +6,14 @@ perintah di atas akan menghapus repository yang telah dicommit
 dan menghapus isi file yang ada di repository yang telah dicommit
 
 
-note:
+note reset:
 (7code hast) yang digunakan adalah yang sebelumnya atau yang lama
 biasanya hast yang lama ada di bawah
+
+
+git revert (7code hast)
+perintah hapus repository yang telah di commit. posisi repository 
+di mana aja yang dan akan membuat repository yang baru.
+
+Note revert: saat percobaan pertama, repository namanya jadi ada 2 yang sama
+dan file dalam repository terhapus.
